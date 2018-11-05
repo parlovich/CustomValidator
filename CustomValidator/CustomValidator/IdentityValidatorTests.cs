@@ -13,6 +13,5 @@ namespace CustomValidator
             var actual = validator.Validate(null);
             Assert.AreEqual(expected, actual);
         }
-
     }
 }
