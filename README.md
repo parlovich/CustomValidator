@@ -2,8 +2,10 @@
 Custom Validation Task for NET Padawans
 
 Please fork this repository.
-Implement methods of CustomValidator class by needed modifications and functionality.
-Check Build and Run ALL Unit tests. Add your own tests if necessary. Don't change original Unit tests!
-Submit your solution using Padawans application.
-See your Build and tests results.
+1)Implement methods of CustomValidator class by needed modifications and functionality.
+2)Check Build and Run sample Unit tests.
+3) Add your own Unit tests for all possible usage scenarious.  
+4) Submit your solution using Padawans application.
+5) See your Build and tests results.
+6) Note, that you may Submit your solution not more than 2 times for every task
 Good luck and Happy coding!
