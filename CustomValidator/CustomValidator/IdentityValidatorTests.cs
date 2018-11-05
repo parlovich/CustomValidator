@@ -6,12 +6,13 @@ namespace CustomValidator
     public class IdentityValidatorTests
     {
         [Test]
-        public void ValidateTestCase()
+        public void NameShoudNotBeNull_ValidateTest()
         {
             var validator = new IdentityValidator();
             var expected = true;
-            var actual = validator.Validate("fakedata");
+            var actual = validator.Validate(null);
             Assert.AreEqual(expected, actual);
         }
+
     }
 }
