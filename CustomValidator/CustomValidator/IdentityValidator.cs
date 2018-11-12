@@ -8,7 +8,7 @@ namespace CustomValidator
         }
         public bool Validate(string pwd)
         {
-            return true;
+            return false;
             // throw new NotImplementedException();
         }
     }
